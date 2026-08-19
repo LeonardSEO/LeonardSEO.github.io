@@ -1,0 +1,10 @@
+{
+  "name": "Leonard van Hemert",
+  "short_name": "Leonard",
+  "description": "AI consultant and developer building practical AI, Power Platform, and automation solutions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0f14",
+  "theme_color": "#0b7d4f",
+  "icons": []
+}

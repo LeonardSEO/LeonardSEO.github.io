@@ -1,0 +1,24 @@
+# Leonard van Hemert
+
+> AI consultant and developer building practical AI agents, Microsoft Power Platform solutions, developer tools, and business automation at VEPANDO.
+
+- [Canonical profile](https://leonardseo.github.io/): Portfolio and professional profile
+- [GitHub](https://github.com/LeonardSEO): Open-source repositories and contribution history
+- [VEPANDO](https://vepando.com): Company and consulting services
+- [LinkedIn](https://www.linkedin.com/in/leonard-van-hemert/): Professional network profile
+
+## Areas of expertise
+
+- AI agents, prompt engineering, agent skills, and Model Context Protocol servers
+- Microsoft Power Platform, Power Apps Code Apps, Dataverse, and Power Automate
+- n8n workflows, API integrations, document processing, and self-hosted services
+- TypeScript, Python, React, Swift, Docker, Azure, and GitHub Actions
+
+## Selected open-source work
+
+- [Power Platform Skills for Codex](https://github.com/LeonardSEO/power-platform-skills-codex): Power Platform agent skills adapted for Codex
+- [Power Apps Code Apps skill](https://github.com/LeonardSEO/power-apps-code-apps-skill): Cross-compatible coding guidance for Power Apps Code Apps
+- [Prompt Engineer skill](https://github.com/LeonardSEO/prompt-engineer-skill): Prompt writing and improvement across GPT and Claude models
+- [MinuteWave](https://github.com/LeonardSEO/MinuteWave): Local-first macOS meeting copilot
+- [Liquid Glass React](https://github.com/LeonardSEO/liquid-glass-react): SVG-based edge refraction for React and Next.js
+- [Free PDF to Text for n8n](https://github.com/LeonardSEO/n8n-nodes-pdf-page-extract): Local page-by-page PDF text extraction
